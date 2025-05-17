@@ -1,0 +1,19 @@
+# MK Processor Requirements
+# Core dependencies
+PyQt5>=5.15.4
+selenium>=4.0.0
+gspread>=5.0.0
+oauth2client>=4.1.3
+pandas>=1.3.0
+openpyxl>=3.0.9
+fake_useragent>=0.1.11
+Pillow>=9.0.0
+requests>=2.27.1
+
+# Build dependencies
+pyinstaller==4.5.1
+
+# Development dependencies (optional)
+pytest>=6.2.5
+black>=21.12b0
+flake8>=4.0.1
